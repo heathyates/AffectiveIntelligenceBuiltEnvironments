@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "NaiveSTWam", "NaiveSTWam\NaiveSTWam.rxproj", "{9A0DFC5A-267B-413D-80E6-0E4CD01B3B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0DFC5A-267B-413D-80E6-0E4CD01B3B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0DFC5A-267B-413D-80E6-0E4CD01B3B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0DFC5A-267B-413D-80E6-0E4CD01B3B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0DFC5A-267B-413D-80E6-0E4CD01B3B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB975B3-2655-4BA9-8349-3D59E654307E}
+	EndGlobalSection
+EndGlobal

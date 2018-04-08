@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "LRSTWam", "LRSTWam\LRSTWam.rxproj", "{9860C8BC-A1C6-43F3-AE21-34BD35BAF3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9860C8BC-A1C6-43F3-AE21-34BD35BAF3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9860C8BC-A1C6-43F3-AE21-34BD35BAF3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9860C8BC-A1C6-43F3-AE21-34BD35BAF3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9860C8BC-A1C6-43F3-AE21-34BD35BAF3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2847C179-B7A3-42D8-9A12-D7A9B7AF4616}
+	EndGlobalSection
+EndGlobal
